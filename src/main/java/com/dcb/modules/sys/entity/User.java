@@ -27,5 +27,5 @@ public class User {
 
     private String name;
 
-    private String password1;
+    private String password;
 }
