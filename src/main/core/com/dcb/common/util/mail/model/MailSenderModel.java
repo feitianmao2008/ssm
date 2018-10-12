@@ -5,8 +5,12 @@
  */
 package com.dcb.common.util.mail.model;
 
+<<<<<<< HEAD
 
 import com.dcb.common.util.io.FileUtils;
+=======
+import com.eryansky.common.utils.io.FileUtils;
+>>>>>>> d2750a72bd7d022d23c5cdb6ced0f22ef7c56fcb
 import freemarker.template.Configuration;
 import freemarker.template.Template;
 import org.springframework.ui.freemarker.FreeMarkerTemplateUtils;

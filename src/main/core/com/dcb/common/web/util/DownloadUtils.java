@@ -4,7 +4,12 @@
  *  Licensed under the Apache License, Version 2.0 (the "License"); 
  */
 package com.dcb.common.web.util;
+<<<<<<< HEAD
 import com.dcb.common.util.StringUtils;
+=======
+
+import com.eryansky.common.utils.StringUtils;
+>>>>>>> d2750a72bd7d022d23c5cdb6ced0f22ef7c56fcb
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.lang3.ArrayUtils;
 

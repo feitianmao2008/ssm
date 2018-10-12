@@ -5,7 +5,10 @@
  */
 package com.dcb.common.util.ftp;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> d2750a72bd7d022d23c5cdb6ced0f22ef7c56fcb
 import org.apache.commons.net.ftp.FTPClient;
 import org.apache.commons.net.ftp.FTPFile;
 import org.apache.commons.net.ftp.FTPReply;

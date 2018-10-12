@@ -5,7 +5,11 @@
  */
 package com.dcb.common.util.mapper;
 
+<<<<<<< HEAD
 import com.dcb.common.util.StringUtils;
+=======
+import com.eryansky.common.utils.StringUtils;
+>>>>>>> d2750a72bd7d022d23c5cdb6ced0f22ef7c56fcb
 import com.fasterxml.jackson.annotation.JsonFilter;
 import com.fasterxml.jackson.annotation.JsonInclude.Include;
 import com.fasterxml.jackson.core.JsonParser;
