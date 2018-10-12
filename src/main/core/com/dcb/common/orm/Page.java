@@ -6,6 +6,7 @@
  */
 package com.dcb.common.orm;
 
+<<<<<<< HEAD
 
 import com.dcb.common.util.UserAgentUtils;
 import com.dcb.common.web.util.CookieUtils;
@@ -13,6 +14,14 @@ import com.dcb.common.web.util.WebUtils;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.google.common.collect.Lists;
 import com.dcb.common.util.StringUtils;
+=======
+import com.alibaba.druid.util.StringUtils;
+import com.dcb.common.util.UserAgentUtils;
+import com.dcb.common.web.util.CookieUtils;
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.google.common.collect.Lists;
+import org.springframework.web.util.WebUtils;
+>>>>>>> d2750a72bd7d022d23c5cdb6ced0f22ef7c56fcb
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

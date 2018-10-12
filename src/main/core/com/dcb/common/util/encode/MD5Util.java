@@ -5,8 +5,12 @@
  */
 package com.dcb.common.util.encode;
 
+<<<<<<< HEAD
 
 import com.dcb.common.util.StringUtils;
+=======
+import com.eryansky.common.utils.StringUtils;
+>>>>>>> d2750a72bd7d022d23c5cdb6ced0f22ef7c56fcb
 
 import java.io.File;
 import java.io.FileInputStream;

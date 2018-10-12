@@ -4,9 +4,16 @@
  *  Licensed under the Apache License, Version 2.0 (the "License");
  */
 package com.dcb.common.util.io;
+<<<<<<< HEAD
 import com.dcb.common.exception.ServiceException;
 import com.dcb.common.util.Identities;
 import com.dcb.common.util.StringUtils;
+=======
+
+import com.eryansky.common.exception.ServiceException;
+import com.eryansky.common.utils.Identities;
+import com.eryansky.common.utils.StringUtils;
+>>>>>>> d2750a72bd7d022d23c5cdb6ced0f22ef7c56fcb
 import org.apache.commons.codec.binary.Base64;
 
 import java.io.*;

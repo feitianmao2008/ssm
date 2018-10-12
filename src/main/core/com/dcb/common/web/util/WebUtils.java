@@ -1,9 +1,16 @@
 package com.dcb.common.web.util;
 
+<<<<<<< HEAD
 import com.dcb.common.util.StringUtils;
 import com.dcb.common.util.UserAgentUtils;
 import com.dcb.common.util.encode.EncodeUtils;
 import com.dcb.common.util.mapper.JsonMapper;
+=======
+import com.eryansky.common.utils.StringUtils;
+import com.eryansky.common.utils.UserAgentUtils;
+import com.eryansky.common.utils.encode.EncodeUtils;
+import com.eryansky.common.utils.mapper.JsonMapper;
+>>>>>>> d2750a72bd7d022d23c5cdb6ced0f22ef7c56fcb
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;

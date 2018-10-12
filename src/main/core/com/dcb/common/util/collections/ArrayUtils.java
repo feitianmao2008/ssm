@@ -5,7 +5,11 @@
  */
 package com.dcb.common.util.collections;
 
+<<<<<<< HEAD
 import com.dcb.common.util.ObjectUtils;
+=======
+import com.eryansky.common.utils.ObjectUtils;
+>>>>>>> d2750a72bd7d022d23c5cdb6ced0f22ef7c56fcb
 
 /**
  * array工具类
